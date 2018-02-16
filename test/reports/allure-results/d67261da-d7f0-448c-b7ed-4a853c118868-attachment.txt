@@ -1,0 +1,4 @@
+00:06:28.083 COMMAND: POST /element - {"using":"link text","value":"New Assignment"}
+
+00:06:28.104 RESULT: {"ELEMENT":"0.20564186878322754-1"}
+

@@ -1,0 +1,48 @@
+00:46:08.249 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:08.257 RESULT: []
+
+00:46:08.751 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:08.760 RESULT: []
+
+00:46:09.252 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:09.261 RESULT: []
+
+00:46:09.749 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:09.758 RESULT: []
+
+00:46:10.255 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:10.264 RESULT: []
+
+00:46:10.753 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:10.761 RESULT: []
+
+00:46:11.252 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:11.261 RESULT: []
+
+00:46:11.754 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:11.763 RESULT: []
+
+00:46:12.250 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:12.260 RESULT: []
+
+00:46:12.752 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:12.760 RESULT: []
+
+00:46:13.249 COMMAND: POST /elements - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:46:14.460 RESULT: [{"ELEMENT":"0.7265251995377835-1"}]
+
+00:46:14.461 COMMAND: GET /element/0.7265251995377835-1/displayed - {}
+
+00:46:14.485 RESULT: true
+

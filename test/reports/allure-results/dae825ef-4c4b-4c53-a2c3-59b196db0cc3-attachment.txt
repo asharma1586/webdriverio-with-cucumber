@@ -1,0 +1,4 @@
+18:28:35.958 COMMAND: POST /element - {"using":"xpath","value":"//input[@value=\"virtual\"]"}
+
+18:28:35.978 RESULT: {"ELEMENT":"0.7983041182105188-3"}
+

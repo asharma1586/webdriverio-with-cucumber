@@ -1,0 +1,8 @@
+18:32:43.762 COMMAND: POST /element/0.890293144300891-4/clear - {}
+
+18:32:43.805 RESULT: null
+
+18:32:43.805 COMMAND: POST /element/0.890293144300891-4/value - {"value":["0",".","0","1"],"text":"0.01"}
+
+18:32:44.156 RESULT: null
+

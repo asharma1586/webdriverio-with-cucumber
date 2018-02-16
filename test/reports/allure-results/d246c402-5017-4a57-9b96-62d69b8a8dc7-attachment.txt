@@ -1,0 +1,8 @@
+00:19:30.528 COMMAND: POST /element/0.05641003712310089-2/clear - {}
+
+00:19:30.548 RESULT: null
+
+00:19:30.548 COMMAND: POST /element/0.05641003712310089-2/value - {"value":["w","0","r","k","m","a","r","k","e","t","(2 more items)"],"text":"w0rkmarket12"}
+
+00:19:30.614 RESULT: null
+

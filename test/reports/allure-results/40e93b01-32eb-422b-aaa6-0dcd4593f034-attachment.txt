@@ -1,0 +1,4 @@
+00:13:00.609 COMMAND: DELETE  - {}
+
+00:13:00.666 RESULT: null
+

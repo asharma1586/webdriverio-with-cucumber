@@ -1,0 +1,4 @@
+23:56:19.860 COMMAND: POST /element - {"using":"xpath","value":"//div[contains(text(),\"Draft\")]"}
+
+23:56:19.881 RESULT: undefined
+

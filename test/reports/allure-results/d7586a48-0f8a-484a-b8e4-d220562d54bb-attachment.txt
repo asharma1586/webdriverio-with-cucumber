@@ -1,0 +1,4 @@
+17:54:06.595 COMMAND: POST /element - {"using":"id","value":"login-password"}
+
+17:54:06.611 RESULT: {"ELEMENT":"0.005947216653186649-2"}
+

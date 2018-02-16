@@ -1,0 +1,4 @@
+00:43:52.804 COMMAND: POST /element - {"using":"xpath","value":"//span[contains(text(),\"Create Talent Pool\")]"}
+
+00:43:52.814 RESULT: {"ELEMENT":"0.20003590433360907-1"}
+

@@ -1,0 +1,4 @@
+00:06:16.857 COMMAND: POST /element/0.03221949901712695-3/click - {}
+
+00:06:22.316 RESULT: null
+

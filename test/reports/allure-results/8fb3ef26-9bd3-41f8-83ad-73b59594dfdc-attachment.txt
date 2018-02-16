@@ -1,0 +1,4 @@
+16:58:50.361 COMMAND: GET /element/0.5595021786997914-1/text - {}
+
+16:58:50.380 RESULT: "Find Talent"
+

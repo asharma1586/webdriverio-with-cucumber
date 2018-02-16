@@ -1,0 +1,4 @@
+00:51:21.205 COMMAND: POST /element - {"using":"xpath","value":"//form//div[1]//div[1]//div[1]//div[1]//div[3]//svg"}
+
+00:51:21.223 RESULT: undefined
+

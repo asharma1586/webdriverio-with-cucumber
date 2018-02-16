@@ -1,0 +1,8 @@
+17:15:06.701 COMMAND: POST /element/0.10332400714285273-1/clear - {}
+
+17:15:06.722 RESULT: null
+
+17:15:06.723 COMMAND: POST /element/0.10332400714285273-1/value - {"value":["q","a","+","e","@","w","o","r","k","m","(9 more items)"],"text":"qa+e@workmarket.com"}
+
+17:15:06.835 RESULT: null
+

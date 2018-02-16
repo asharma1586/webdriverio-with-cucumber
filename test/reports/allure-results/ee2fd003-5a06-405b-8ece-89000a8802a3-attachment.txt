@@ -1,0 +1,8 @@
+17:50:12.756 COMMAND: POST /wd/hub/session - {"desiredCapabilities":{"javascriptEnabled":true,"locationContextEnabled":true,"handlesAlerts":true,"rotatable":true,"browserName":"chrome","maxInstances":"1","loggingPrefs":{"browser":"ALL","driver":"ALL"},"requestOrigins":{"url":"http://webdriver.io","version":"4.10.2","name":"webdriverio"}}}
+
+17:50:14.002 RESULT: {"applicationCacheEnabled":false,"rotatable":false,"mobileEmulationEnabled":false,"networkConnectionEnabled":false,"chrome":{"chromedriverVersion":"2.33.506106 (8a06c39c4582fbfbab6966dbb1c38a9173bfb1a2)","userDataDir":"/var/folders/02/7w792wtd5fs4msnnn7pnd38h0000gn/T/.org.chromium.Chromium.Yhl3MP"},"takesHeapSnapshot":true,"pageLoadStrategy":"normal","databaseEnabled":false,"handlesAlerts":true,"hasTouchScreen":false,"_":"13 more keys: [\"version\",\"platform\",\"browserConnectionEnabled\",\"nativeEvents\",\"acceptSslCerts\",\"locationContextEnabled\",\"webStorageEnabled\",\"browserName\",\"takesScreenshot\",\"javascriptEnabled\",\"cssSelectorsEnabled\",\"setWindowRect\",\"unexpectedAlertBehaviour\"]"}
+
+17:50:14.812 COMMAND: POST /url - {"url":"https://qa.workmarket.com/login"}
+
+17:50:19.131 RESULT: null
+

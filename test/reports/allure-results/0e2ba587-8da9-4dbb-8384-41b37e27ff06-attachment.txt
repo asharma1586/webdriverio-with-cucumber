@@ -1,0 +1,4 @@
+17:44:56.293 COMMAND: POST /element - {"using":"xpath","value":"//*[@class=\"ql-editor ql-blank\"]"}
+
+17:44:56.320 RESULT: {"ELEMENT":"0.12748665248373503-2"}
+

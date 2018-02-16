@@ -1,0 +1,4 @@
+17:55:29.924 COMMAND: POST /window/current/maximize - {}
+
+17:55:30.158 RESULT: null
+

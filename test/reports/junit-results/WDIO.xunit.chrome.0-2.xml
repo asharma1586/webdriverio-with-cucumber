@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="employer_can_create_a_public_talent_pool1" timestamp="2018-02-17T00:20:06" time="0.24" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="5b573ee3d3c6f34f97979572b1afb90f"/>
+      <property name="suiteName" value="Employer can create a public talent pool1"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+  </testsuite>
+  <testsuite name="performing_login_operation_with_passing_test_data_as_data_table13" timestamp="2018-02-17T00:20:06" time="0.216" tests="3" failures="0" errors="1" skipped="2">
+    <properties>
+      <property name="specId" value="5b573ee3d3c6f34f97979572b1afb90f"/>
+      <property name="suiteName" value="Performing login operation with passing test data as data table13"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Performing login operation with passing test data as data table13" name="I am on the workmarket login page5" time="0.432">
+      <error message="&#xA;unknown error: unhandled inspector error: {&quot;code&quot;:-32000,&quot;message&quot;:&quot;No target with given id&quot;}&#xA;"/>
+      <system-err>
+        <![CDATA[
+Error: An unknown server-side error occurred while processing the command.
+    at windowHandleFullscreen() - index.js:316:3
+]]>
+      </system-err>
+    </testcase>
+    <testcase classname="chrome.Performing login operation with passing test data as data table13" name="I login with username and password &quot;qa+e@workmarket.com&quot; &quot;w0rkmarket12&quot; into the text box8" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing login operation with passing test data as data table13" name="I should see the message &quot;Find Talent&quot; on my home page9" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="employer_can_create_a_public_talent_pool16" timestamp="2018-02-17T00:20:06" time="0.02" tests="6" failures="0" errors="3" skipped="3">
+    <properties>
+      <property name="specId" value="5b573ee3d3c6f34f97979572b1afb90f"/>
+      <property name="suiteName" value="Employer can create a public talent pool16"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="I am on the workmarket login page5" time="0.215">
+      <error message="&#xA;no such window: target window already closed&#xA;from unknown error: web view not found&#xA;"/>
+      <system-err>
+        <![CDATA[
+Error: A request to switch to a different window could not be satisfied because the window could not be found.
+    at url("https://qa.workmarket.com/login") - index.js:316:3
+]]>
+      </system-err>
+    </testcase>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="I am on home page17" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="employer click on Talent pool link under talent18" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="click on Create talent pool button19" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="click on create talent pool button after filling the required text fields20" time="0.201">
+      <error message="&#xA;Step &quot;click on create talent pool button after filling the required text fields&quot; is not defined. You can ignore this error by setting&#xA;                              cucumberOpts.ignoreUndefinedDefinitions as true.&#xA;"/>
+      <system-err>
+        <![CDATA[
+/Users/anamikasharma/SampleProject/webdriverIO-with-cucumber/test/features/WM-EmployerTalentPool.feature:20
+]]>
+      </system-err>
+    </testcase>
+    <testcase classname="chrome.Employer can create a public talent pool16" name="public talent pool created21" time="0.199">
+      <error message="&#xA;Step &quot;public talent pool created&quot; is not defined. You can ignore this error by setting&#xA;                              cucumberOpts.ignoreUndefinedDefinitions as true.&#xA;"/>
+      <system-err>
+        <![CDATA[
+/Users/anamikasharma/SampleProject/webdriverIO-with-cucumber/test/features/WM-EmployerTalentPool.feature:21
+]]>
+      </system-err>
+    </testcase>
+  </testsuite>
+</testsuites>

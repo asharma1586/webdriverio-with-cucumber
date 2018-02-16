@@ -1,0 +1,4 @@
+18:19:52.524 COMMAND: POST /element - {"using":"xpath","value":"//div[@class=\"assignment-status\"]"}
+
+18:19:52.544 RESULT: undefined
+

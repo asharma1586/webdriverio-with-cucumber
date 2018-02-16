@@ -1,0 +1,4 @@
+18:35:26.768 COMMAND: POST /element - {"using":"xpath","value":"//button[contains(text(),\"Save as Draft\")]"}
+
+18:35:26.786 RESULT: {"ELEMENT":"0.6988370432486917-5"}
+

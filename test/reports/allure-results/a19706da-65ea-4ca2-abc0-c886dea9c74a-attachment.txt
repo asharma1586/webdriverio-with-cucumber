@@ -1,0 +1,4 @@
+18:19:51.012 COMMAND: POST /element - {"using":"id","value":"payments-flatPrice"}
+
+18:19:51.028 RESULT: {"ELEMENT":"0.6911109064386252-4"}
+

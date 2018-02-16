@@ -1,0 +1,12 @@
+00:13:00.425 COMMAND: POST /elements - {"using":"xpath","value":"//body//div[2]//div[1]//div[3]//div[2]//div[1]//div[1]//div[3]"}
+
+00:13:00.451 RESULT: [{"ELEMENT":"0.44496949112194284-6"},{"ELEMENT":"0.44496949112194284-7"}]
+
+00:13:00.453 COMMAND: GET /element/0.44496949112194284-6/text - {}
+
+00:13:00.454 COMMAND: GET /element/0.44496949112194284-7/text - {}
+
+00:13:00.475 RESULT: ""
+
+00:13:00.488 RESULT: ""
+

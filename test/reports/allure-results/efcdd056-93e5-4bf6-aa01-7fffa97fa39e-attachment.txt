@@ -1,0 +1,4 @@
+00:17:11.281 COMMAND: POST /element - {"using":"css selector","value":".assignment-status"}
+
+00:17:14.303 RESULT: undefined
+

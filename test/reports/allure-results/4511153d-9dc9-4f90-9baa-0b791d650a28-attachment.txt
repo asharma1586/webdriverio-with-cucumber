@@ -1,0 +1,4 @@
+23:32:56.992 COMMAND: POST /element - {"using":"link text","value":"Draft"}
+
+23:32:57.099 RESULT: undefined
+

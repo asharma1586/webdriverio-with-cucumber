@@ -1,0 +1,4 @@
+23:32:30.204 COMMAND: POST /window/fullscreen - {}
+
+23:32:30.399 RESULT: null
+
